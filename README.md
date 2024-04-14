@@ -11,6 +11,7 @@ A Discord bot that removes messages containing links in specified channels, exce
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
+- [Community](#community)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -68,6 +69,12 @@ You can configure the behavior of the bot by modifying the following variables i
 
 Additionally, you can customize the whitelisted channels and ignored roles directly in the `index.js` file.
 
+## Community
+
+Join our Discord community for support, feedback, and collaboration:
+
+[![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/rXs6Kbmctq)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
@@ -75,5 +82,3 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to customize this template according to your specific needs and preferences. You can add more sections, change formatting, or provide additional information as necessary. Let me know if you need further assistance or have any questions!
