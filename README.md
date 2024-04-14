@@ -1,4 +1,3 @@
-```markdown
 # Anti-Links Discord Bot
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -76,6 +75,5 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 Feel free to customize this template according to your specific needs and preferences. You can add more sections, change formatting, or provide additional information as necessary. Let me know if you need further assistance or have any questions!
