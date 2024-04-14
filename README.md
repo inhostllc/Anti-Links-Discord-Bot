@@ -19,6 +19,11 @@ A Discord bot that removes messages containing links in specified channels, exce
 
 This Discord bot is designed to help moderate links posted in Discord channels. It automatically removes messages that contain links unless they are posted in whitelisted channels or by users with specific roles. By using this bot, you can maintain a cleaner chat environment while still allowing links in designated areas.
 
+Initially i created this bot, because i got tired from people posting illegal links and other stuff in general chat, while there is support chat, therefore this bot was created.
+
+It was created for FiveM Security Community
+[![Discord](https://img.shields.io/discord/727712726880747660?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/r6UzgNYAdw)
+
 ## Features
 
 - Automatic removal of messages containing links
