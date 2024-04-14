@@ -73,7 +73,7 @@ Additionally, you can customize the whitelisted channels and ignored roles direc
 
 Join our Discord community for support, feedback, and collaboration:
 
-[![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/rXs6Kbmctq)
+[![Discord](https://img.shields.io/discord/792340562493702174?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/rXs6Kbmctq)
 
 ## Contributing
 
