@@ -1,3 +1,4 @@
+```markdown
 # Anti-Links Discord Bot
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -32,3 +33,49 @@ To use the Anti-Links Discord Bot, follow these steps:
 
    ```bash
    git clone https://github.com/inhostllc/Anti-Links-Discord-Bot.git
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Set up your environment variables by creating a `.env` file in the root directory of the project and adding the following:
+
+   ```plaintext
+   DISCORD_TOKEN=your_discord_bot_token
+   WEBHOOK_URL=your_webhook_url_for_logs
+   ```
+
+4. Configure the bot according to your preferences (see [Configuration](#configuration) section below).
+
+5. Run the bot:
+
+   ```bash
+   npm start
+   ```
+
+## Usage
+
+Once the bot is running and added to your Discord server, it will automatically monitor messages in the specified channels and remove any messages containing links, except for whitelisted channels and users with specific roles.
+
+## Configuration
+
+You can configure the behavior of the bot by modifying the following variables in the `.env` file:
+
+- `DISCORD_TOKEN`: Your Discord bot token.
+- `WEBHOOK_URL`: The webhook URL where log messages will be sent.
+
+Additionally, you can customize the whitelisted channels and ignored roles directly in the `index.js` file.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+Feel free to customize this template according to your specific needs and preferences. You can add more sections, change formatting, or provide additional information as necessary. Let me know if you need further assistance or have any questions!
